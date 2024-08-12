@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kalnia+Glaze:wght@100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Sankofa+Display&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+h1{
+    font-family: "Sankofa Display", sans-serif;
+    font-weight: bolder;
+    line-height: 15px;
+    font-size: 900;
+}
